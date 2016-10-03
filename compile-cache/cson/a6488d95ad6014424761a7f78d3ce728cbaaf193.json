@@ -1,0 +1,1 @@
+{"*":{"core":{"openEmptyEditorOnStart":false,"themes":["atom-material-ui","base16-tomorrow-dark-theme"]},"editor":{"backUpBeforeSaving":true,"fontSize":1},"linter-gcc":{"gccDebug":true},"pigments":{"markerType":"dot"},"sass-autocompile":{"compileCompressed":false,"compileExpanded":true},"welcome":{"showOnStartup":false}}}

@@ -1,0 +1,27 @@
+"*":
+  core:
+    disabledPackages: [
+      "linter-tidy"
+    ]
+    openEmptyEditorOnStart: false
+    themes: [
+      "atom-material-ui"
+      "one-dark-syntax"
+    ]
+  editor:
+    backUpBeforeSaving: true
+    fontSize: 15
+  "linter-gcc":
+    gccDebug: true
+  "linter-sass-lint":
+    globalSassLint: true
+    noConfigDisable: true
+  pigments:
+    markerType: "dot"
+  "sass-autocompile":
+    compileCompressed: false
+    compileExpanded: true
+    compileOnSave: false
+    indentType: "Tab"
+  welcome:
+    showOnStartup: false
